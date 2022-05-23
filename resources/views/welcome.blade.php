@@ -9,7 +9,7 @@
 </head>
 
 <body>
-
+    @dump($trains)
 </body>
 
 </html>
